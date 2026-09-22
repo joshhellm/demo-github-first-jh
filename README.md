@@ -10,3 +10,5 @@ This is an edit I made in RStudio
 This is an edit I made on github
 
 This is a second edit I made on RStudio
+
+This is an edit I'm going to send to GitHub with the terminal.
