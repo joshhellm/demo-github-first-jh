@@ -6,3 +6,6 @@ mean_mpg <- mean(mtcars$mpg)
 
 # print the mean mpg
 mean_mpg
+
+# avaerage cyl
+mean_cyl <- mean(mtcars$cyl)
