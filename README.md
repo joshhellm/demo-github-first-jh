@@ -14,3 +14,5 @@ This is a second edit I made on RStudio
 This is an edit I'm going to send to GitHub with the terminal.
 
 Here is an edit I made on gr Branch.
+
+Hi, This is Neel and I am collabrating with Josh for this repo! Sept24, 2026
